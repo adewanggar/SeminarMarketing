@@ -45,7 +45,7 @@ Landing page ini dibangun dengan HTML, CSS, dan JavaScript murni tanpa framework
 
 1. Clone repository:
    ```bash
-   git clone https://github.com/adewanggar/SeminarMarketing.git
+   git clone https://github.com/adewanggar/seminar-marketing-2025.git
    ```
 
 2. Buka file `index.html` di browser Anda atau deploy ke web server.
